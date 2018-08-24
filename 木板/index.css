@@ -1,0 +1,97 @@
+*{margin:0;padding:0}
+a{
+    color:#777;
+}
+.qiye{
+    text-align:center;
+    font-size:24px;
+}
+.AA{
+      color:#2dae36;
+      font-size:20px;
+}
+.ta-c{
+    text-align: center;
+}
+.aa{
+    color:#666666;
+    font-size:14px;
+}
+.show{
+    border-bottom: 1px solid #2dae36;
+    height:44px;
+    margin-top:30px ;
+}
+.items img{
+    width:30%;
+}
+.BB{
+    width:122px;
+    background-color: #2dae36;
+    border-radius:15px 0px 15px 0px;    
+    font-size:16px;
+    color:white;
+    text-align: center;
+    line-height: 44px;
+}
+.CC div{
+    margin-top:20px;
+}
+.CC div img{
+    width: 100%;
+}
+.bottom{
+    width:100%;
+    background-color: #dddddd;
+    margin-top:20px;
+}
+.pp{
+    text-align: center;
+}
+.dd{
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+.gy{
+    padding-top:30px;
+}
+.Mu{
+    padding-top:30px;
+}
+.dian{
+    padding-top:30px;
+}
+.navbar-nav li{
+    border-bottom: 1px solid #fff;
+}
+.navbar-nav li:hover{
+    border-bottom: 1px solid #2dae36;
+}
+.navbar-nav>li>a:hover{
+    
+    color: #2dae36 !important;
+}
+.navbar-brand{
+    margin-top:5px;
+}
+.tiaozhuan{
+    width:268px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:15px;
+}
+.tiaozhuan a{
+    color:darkred;
+}
+.tiaozhuan a:hover{
+    color:darkgrey;
+}
+.tiaozhuan li{
+    float:left;
+    list-style: none;
+    padding-right:30px;
+    text-align: center;
+}
+
